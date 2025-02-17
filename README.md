@@ -1,8 +1,33 @@
 # Olá, eu sou a Regiane Martins
 
 
-- 💻 Desenvolvedora Front-end em formação
-- 📚 Estudando JavaScript, React, TypeScript
+- 🔍 Analista de Testes Júnior apaixonada por garantir a qualidade e a confiabilidade do software. Estou constantemente aprimorando minhas habilidades para contribuir de forma efetiva para o desenvolvimento e entrega de produtos de alta qualidade.
+- 💻 Linguagens de Programação:
+
+SQL
+JavaScript
+TypeScript
+- 🔧 Frameworks e Bibliotecas:
+
+React
+Node.js
+- 🛠️ Ferramentas e Frameworks de Teste:
+
+Cypress
+Postman
+BDD
+BrowserStack
+- 🗃️ Controle de Versão:
+
+GIT
+- ⚙️ Metodologias Ágeis:
+
+SCRUM
+KANBAN
+- 📈 Ferramentas de Produtividade:
+
+Notion
+- 🚀 CI/CD (Integração e Entrega Contínuas)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
