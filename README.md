@@ -4,28 +4,24 @@
 - 🔍 Analista de Testes Júnior apaixonada por garantir a qualidade e a confiabilidade do software. Estou constantemente aprimorando minhas habilidades para contribuir de forma efetiva para o desenvolvimento e entrega de produtos de alta qualidade.
 - 💻 Linguagens de Programação:
 
-     SQL
-     JavaScript
-     TypeScript
+     SQL  | JavaScript  | TypeScript
+     
 - 🔧 Frameworks e Bibliotecas:
 
-     React
-     Node.js
+     React | Node.js
+
 - 🛠️ Ferramentas e Frameworks de Teste:
 
-     Cypress
-     Postman
-     BDD
-     BrowserStack
+     Cypress | Postman | BDD | BrowserStack
+     
 - 🗃️ Controle de Versão:
 
      GIT
 - ⚙️ Metodologias Ágeis:
 
-     SCRUM
-     KANBAN
+     SCRUM | KANBAN
 - 📈 Ferramentas de Produtividade:
-
+- 
      Notion
 - 🚀 CI/CD (Integração e Entrega Contínuas)
 
