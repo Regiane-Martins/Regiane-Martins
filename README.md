@@ -21,7 +21,7 @@
 
      SCRUM | KANBAN
 - 📈 Ferramentas de Produtividade:
-- 
+  
      Notion
 - 🚀 CI/CD (Integração e Entrega Contínuas)
 
